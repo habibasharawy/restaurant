@@ -2037,6 +2037,7 @@ li
 .grid1 img
 {
     display: none;
+    visibility: hidden;
 }
 .imgs
 {
